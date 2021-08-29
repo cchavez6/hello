@@ -9,5 +9,7 @@
 
      printf("Caden Chavez!\n");
      printf("Computer Science");
+     printf("Alex Gilson!\n");
+     printf("Computer Science");
 
 return 0; }
